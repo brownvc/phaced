@@ -1,0 +1,22 @@
+# data
+data/
+blender_data_gen/blender-2.80*/
+blender_data_gen/eth-merl/
+blender_data_gen/specularity_maps/
+blender_data_gen/train*/
+blender_data_gen/test*/
+
+# models
+pretrained_weights/
+
+
+# log/output
+results*/
+snapshots*/
+runs*/
+
+# IDE/libs
+.vscode
+*.DS_Store
+*/__pycache__/
+skylibs*/
